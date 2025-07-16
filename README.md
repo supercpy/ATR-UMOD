@@ -18,7 +18,6 @@ Some representative examples of high-diversity imaging conditions in the ATR-UMO
 # Download
 The datatset can be load from BaiduYun: 
 
-通过网盘分享的文件：ATR-UMOD
 链接: https://pan.baidu.com/s/1rZ7MG5mI8inuiinvTVMRRg?pwd=accd 提取码: accd
 # Code
 The PCDF in this paper will be released soon.
