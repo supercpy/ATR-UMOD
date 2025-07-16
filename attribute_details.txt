@@ -1,0 +1,36 @@
+weather_dict= {
+    'Sunny': '0',
+    'Cloudy': '1',
+    'Rainy': '2',
+    'After Rain': '3',
+    'Foggy': '4',
+    'Snowy': '5',
+    'Sunny_Night':'6',
+    'Cloudy_Night':'7',
+    'Sunny_Near_Night':'8',
+    'Cloudy_Near_Night':'9'
+               }
+
+illumination_dict = {
+    'Overexposure illumination conditions with Uniform bright illumination': '0',
+    'Normal illumination conditions with Uniform normal illumination': '1',
+    'Pre-Twilight illumination conditions with Non-uniform dim illumination': '2',
+    'Post-Twilight illumination conditions with Non-uniform dim illumination': '3',
+    'Dim illumination conditions with Uniform dim illumination': '4',
+    'Near Night illumination conditions with Uniform dark illumination': '5',
+    'Night illumination conditions with Non-uniform no illumination': '6',
+}
+
+location_dict = {
+    'Road in the Urban villages': '0',
+    'Neighborhood in the Urban villages': '1',
+    'Construction site in the Urban Suburb': '2',
+    'Road in the Urban Suburb': '3',
+    'School in the Urban Suburb': '4',
+    'Factory in the Urban Suburb': '5',
+    'Parking Lot in the Urban Subur': '6',
+    'Neighborhood in the Urban Suburb': '7',
+    'Road in the Urban Center': '8',
+    'Construction site in the Urban villages':'9',
+    'Parking Lot in the Urban villages':'10'
+                        }
