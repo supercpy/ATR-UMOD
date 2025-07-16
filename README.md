@@ -20,7 +20,7 @@ The datatset can be load from BaiduYun:
 
 链接: https://pan.baidu.com/s/1rZ7MG5mI8inuiinvTVMRRg?pwd=accd 提取码: accd
 
-The detailed meanings of the numerical values of each condition attribute in the XML file are provided in the given txt file.
+The detailed meanings of the values of each condition attribute in the XML file are provided in the given txt file.
 # Code
 The PCDF in this paper will be released soon.
 # Citation
